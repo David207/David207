@@ -33,7 +33,7 @@ Adept at integrating machine learning models and leveraging NLP techniques to su
 - Built real-time data processing systems using Apache Kafka, supporting real-time decision-making.
 - Deployed data workflows on AWS using Redshift and S3, reducing data processing time by 30%. Collaborated with clients to deliver scalable, efficient data engineering solutions
 
-### Data Analyst Pearls @ Construction LLC 
+### Data Analyst @ Pearls Construction LLC 
 - Designed interactive dashboards and reports using Power BI and SQL, providing actionable insights for business decisions. 
 - Conducted data profiling and cleansing to enhance data accuracy and usability. 
 - Automated reporting processes, reducing manual effort by 50%.
