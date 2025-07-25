@@ -22,13 +22,14 @@ Adept at integrating machine learning models and leveraging NLP techniques to su
 ## 💼 EXPERIENCE
 
 ### Senior Data Engineer @ Erada Microfinance  
-  -Designing and building end-to-end Data Warehouse and Data Mart architectures to support business intelligence and advanced analytics.
-  -Developing and maintaining ETL/ELT pipelines to ingest, transform, and load data from various structured and unstructured sources.
-  -Leveraging AWS cloud services for scalable data storage, compute, and orchestration (e.g., S3, EC2, Lambda, Redshift).
-  -Utilizing Apache Spark for distributed data processing and large-scale data transformations and Orchestrating data workflows using Apache Airflow, ensuring   efficient task scheduling and monitoring.
-  -Deploying and managing containerized data services using Docker and Kubernetes for scalability and flexibility.
-  -Collaborating with stakeholders to deliver meaningful data visualizations and dashboards for actionable insights and Mentor and Lead Engineers Provide technical guidance to junior team members, conduct code reviews, and promote engineering best practices within the team.
-  -Debug and Troubleshoot Data Issues Identify the root causes of data failures or performance bottlenecks and implement effective solutions.Designing and building end-to-end Data Warehouse and Data Mart architectures to support business intelligence and advanced analytics. Developing and maintaining ETL/ELT pipelines to ingest, transform, and load data from various structured and unstructured sources. Leveraging AWS cloud services for scalable data storage, compute, and orchestration (e.g., S3, EC2, Lambda, Redshift). Utilizing Apache Spark for distributed data processing and large-scale data transformations. Orchestrating data workflows using Apache Airflow, ensuring efficient task scheduling and monitoring. Deploying and managing containerized data services using Docker and Kubernetes for scalability and flexibility. Collaborating with stakeholders to deliver meaningful data visualizations and dashboards for actionable insights. Mentor and Lead Engineers Provide technical guidance to junior team members, conduct code reviews, and promote engineering best practices within the team. Debug and Troubleshoot Data Issues Identify the root causes of data failures or performance bottlenecks and implement effective solutions.
+ - Designing and building end-to-end Data Warehouse and Data Mart architectures to support business intelligence and advanced analytics.
+ - Developing and maintaining ETL/ELT pipelines to ingest, transform, and load data from various structured and unstructured sources.
+ - Leveraging AWS cloud services for scalable data storage, compute, and orchestration (e.g., S3, EC2, Lambda, Redshift).
+ - Utilizing Apache Spark for distributed data processing and large-scale data transformations and Orchestrating data workflows using Apache Airflow, ensuring efficient task scheduling and monitoring.
+ - Deploying and managing containerized data services using Docker and Kubernetes for scalability and flexibility.
+ - Collaborating with stakeholders to deliver meaningful data visualizations and dashboards for actionable insights and Mentor and Lead Engineers Provide technical
+ - guidance to junior team members, conduct code reviews, and promote engineering best practices within the team.
+ - Debug and Troubleshoot Data Issues Identify the root causes of data failures or performance bottlenecks and implement effective solutions
  
 ### Senior Data Engineer @ Toptal 
  - Developed and maintained scalable batch and streaming data pipelines using Apache Spark, Kafka, and Airflow.
